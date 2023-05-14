@@ -1,0 +1,17 @@
+
+
+.mapContainer {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 2em;
+}
+
+.mapContainer form {
+  margin-left: 10%;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid blueviolet;
+  padding: 20px;
+}
